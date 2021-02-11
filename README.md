@@ -8,7 +8,7 @@ I make this software for TESS Interview
 * [Microsoft SQL Server Management]
 * [ASP.Net Core 5.0]
   
- Change the SQL Server conection change this line in the file "appsettings.json".
+ Change the SQL Server conection in this line at the file "appsettings.json".
  
 ```sh
 $  "ConnectionStrings": {
